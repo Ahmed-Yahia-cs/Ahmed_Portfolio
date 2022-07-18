@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Ahmed Yahia</title>
-    <link>https://AhmedYahia.github.io/Ahmed_Portfolio/</link>
+    <link>https://ahmed-yahia-cs.github.io/Ahmed_Portfolio/</link>
     <description>Recent content in Data Science Portfolio on Ahmed Yahia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Mar 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://AhmedYahia.github.io/Ahmed_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://ahmed-yahia-cs.github.io/Ahmed_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Autonomous Vehicle Object Detector</title>
-      <link>https://AhmedYahia.github.io/Ahmed_Portfolio/post/project-3/</link>
+      <link>https://ahmed-yahia-cs.github.io/Ahmed_Portfolio/post/project-3/</link>
       <pubDate>Fri, 25 Mar 2022 11:25:05 -0400</pubDate>
       
-      <guid>https://AhmedYahia.github.io/Ahmed_Portfolio/post/project-3/</guid>
+      <guid>https://ahmed-yahia-cs.github.io/Ahmed_Portfolio/post/project-3/</guid>
       <description>Introduction You are working on a self-driving car. As a critical component of this project, you’d like to first build an object detection system. To create the model for this purpose I would be using the Darknet open-source neural network and YOLO object detector. To explain the power of YOLO let&amp;rsquo;s first compare it to a traditional object tracker which utilizes a sliding window.
 Traditional Object Detection As you can observe, the window goes over every part of the image until it detects the actual object, in this case, the car.</description>
     </item>
     
     <item>
       <title>Arabic Autocompleting System</title>
-      <link>https://AhmedYahia.github.io/Ahmed_Portfolio/post/project-1/</link>
+      <link>https://ahmed-yahia-cs.github.io/Ahmed_Portfolio/post/project-1/</link>
       <pubDate>Tue, 25 Jan 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://AhmedYahia.github.io/Ahmed_Portfolio/post/project-1/</guid>
+      <guid>https://ahmed-yahia-cs.github.io/Ahmed_Portfolio/post/project-1/</guid>
       <description>Introduction Auto-Complete is a feature that provides relevant suggestions based on input by the user. It works best in domains with a limited number of possible words. There are many applications that is used for such as:
 Autocomplete search engine Command line interpreters Source Code Editors. Language models are divided into two types :
 Probabilistic methods Neural Network Based But, as it always is, some problems need to be solved first.</description>
@@ -30,28 +30,28 @@ Probabilistic methods Neural Network Based But, as it always is, some problems n
     
     <item>
       <title>Finding Donors for CharityML</title>
-      <link>https://AhmedYahia.github.io/Ahmed_Portfolio/post/project-2/</link>
+      <link>https://ahmed-yahia-cs.github.io/Ahmed_Portfolio/post/project-2/</link>
       <pubDate>Sat, 25 Dec 2021 11:15:58 -0400</pubDate>
       
-      <guid>https://AhmedYahia.github.io/Ahmed_Portfolio/post/project-2/</guid>
+      <guid>https://ahmed-yahia-cs.github.io/Ahmed_Portfolio/post/project-2/</guid>
       <description>problem definition In this project, I will employ several supervised algorithms to accurately model individuals&amp;rsquo; income using data collected from the 1994 U.S. Census. I will then choose the best candidate algorithm from preliminary results and further optimize this algorithm to best model the data. my goal with this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000. This sort of task can arise in a non-profit setting, where organizations survive on donations.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://AhmedYahia.github.io/Ahmed_Portfolio/about/</link>
+      <link>https://ahmed-yahia-cs.github.io/Ahmed_Portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://AhmedYahia.github.io/Ahmed_Portfolio/about/</guid>
+      <guid>https://ahmed-yahia-cs.github.io/Ahmed_Portfolio/about/</guid>
       <description>Data Science and Machine Learning are my passions. My name is Ahmed Yahia and for the past two years, I have been learning and practicing Data Science and Machine Learning through internships and online courses. I recently started my journey as a Data Scientist Freelancer at Upwork. Along the way, I gained experience in applying Machine Learning in different areas such as Computer Vision and Natural Language Processing and, had the opportunity to work with different scales of data at different end-to-end Machine learning projects starting with data analysis to build models to deployment.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://AhmedYahia.github.io/Ahmed_Portfolio/contact/</link>
+      <link>https://ahmed-yahia-cs.github.io/Ahmed_Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://AhmedYahia.github.io/Ahmed_Portfolio/contact/</guid>
+      <guid>https://ahmed-yahia-cs.github.io/Ahmed_Portfolio/contact/</guid>
       <description> Platform URL Email: ahmed.yahia.cs@gmail.com LinkedIn: Ahmed_Yahia_LinkedIn GitHub: Ahmed_Yahia_GitHub Kaggle: Ahmed_Yahia_Kaggle UpWork: Ahmed_Yahia_UpWork </description>
     </item>
     
